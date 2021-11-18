@@ -7,7 +7,7 @@ The COVID-19 pandemic is not news to anyone at this point, and for the past year
 - [test_baseline_no_label.csv](data/test_baseline_no_label.csv): raw test data with x values
 - [train_baseline.csv](data/train_baseline.csv): raw training data with x and y values
 2. Documents:
-- TODO: create pdf report of project
+- **TODO: create pdf report of project**
 3. Notebooks:
 - [COVID-19.ipynb](/COVID-19.ipynb): notebook with data pre-processing, model brainstorming, model training, model validation, model selection, and model assessment
-TODO: create separate notebooks for data pre-processing/wrangling, and ML (i.e. model creation)
+- **TODO: create separate notebooks for data pre-processing/wrangling, and ML (i.e. model creation)**
