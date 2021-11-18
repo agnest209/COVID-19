@@ -3,16 +3,10 @@ The COVID-19 pandemic is not news to anyone at this point, and for the past year
 
 # Table of Contents
 
-1. [Source Data](#source_data)
-2. [Documents](#documents)
-3. [Notebooks](#notebooks)
-
-## <a name="source_data"></a>Source Data:
+1. Source Data:
 - [test_baseline_no_label.csv](data/test_baseline_no_label.csv): raw test data with x values
 - [train_baseline.csv](data/train_baseline.csv): raw training data with x and y values
-
-## <a name="documents"></a>Documents:
-TODO
-
-## <a name="notebooks"></a>Notebooks:
+2. Documents:
+- TODO
+3. Notebooks:
 - [COVID-19.ipynb](/COVID-19.ipynb): notebook with data pre-processing, model brainstorming, model training, model validation, model selection, and model assessment
